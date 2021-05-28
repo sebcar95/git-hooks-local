@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo Rebase not allowed, sorry
+
+exit 1
